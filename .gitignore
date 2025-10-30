@@ -1,0 +1,14 @@
+# Siemens TIA Portal
+siemens_tia19/Logs/
+siemens_tia19/TMP/
+siemens_tia19/System/PEData/
+siemens_tia19/UserFiles/
+siemens_tia19/Vci/
+siemens_tia19/XRef/
+siemens_tia19/IM/SearchIndex/
+siemens_tia19/IM/HMI/
+siemens_tia19/AdditionalFiles/
+
+# CODESYS / WAGO stuff
+*.precompilecache
+*.opt
