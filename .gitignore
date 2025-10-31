@@ -8,7 +8,10 @@ siemens_tia19/XRef/
 siemens_tia19/IM/SearchIndex/
 siemens_tia19/IM/HMI/
 siemens_tia19/AdditionalFiles/
+siemens_tia19/System/~PEData.*
+siemens_tia19/siemens_tia19.info
 
 # CODESYS / WAGO stuff
+*.Application.*
 *.precompilecache
 *.opt
